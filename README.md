@@ -24,8 +24,8 @@ ft_lstnew_bonus.c ft_lstadd_front_bonus.c ft_lstsize_bonus.c ft_lstlast_bonus.c 
 
 To use this library in your projects, you can simply include the `libft.h` header file and link your project with the compiled `libft.a` library.
 
-```c
-#include "libft.h"
+
+include "libft.h"
 
 int main() {
     // Your code using functions from libft
